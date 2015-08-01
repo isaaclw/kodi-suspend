@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.program.suspend" name="suspend" version="0.1">
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">suspend</summary>
+        <language></language>
+        <description lang="en">suspend</description>
+        <license></license>
+        <source></source>
+        <forum></forum>
+        <email></email>
+        <website></website>
+    </extension>
+</addon>
+
